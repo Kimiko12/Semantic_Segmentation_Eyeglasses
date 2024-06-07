@@ -7,7 +7,7 @@ My project solve the problem of semantic segmentation of eyeglasses in images.
 1. Clone the repo:
 
     ```bash
-    git clone https://github.com/yourusername/projectname.git
+    git clone git@github.com:Kimiko12/Semantic_Segmentation_Eyeglasses.git
     ```
 
 2. Install dependencies:
